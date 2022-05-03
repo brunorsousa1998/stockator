@@ -8,6 +8,8 @@ Clone o repositório utilizando 'git clone https://github.com/brunorsousa1998/st
 
 Entre na pasta contendo os arquivos com 'cd stockator'.
 
+Rode 'yarn install' para instalar as dependências do projeto.
+
 Crie uma variável de ambiente na raiz do projeto contendo as seguintes informações:
 
 - 'APP_DATA = port'
